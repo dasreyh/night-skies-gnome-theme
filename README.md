@@ -3,7 +3,7 @@ Night Skies is a simple and smooth theme for Gnome.
 
 Currently in development.
 
-![Hero Image](https://imgur.com/a/xOw0USe)
+![Hero Image](https://i.imgur.com/yEX6YLm.png)
 
 Requirements:
   Dash to dock
